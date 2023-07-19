@@ -1,5 +1,5 @@
 {
-    "name": "marthoc Hass.io Addons",
-    "url": "https://github.com/marthoc/hassio-addons",
-    "maintainer": "marthoc"
+    "name": "forked marthoc Hass.io Addons",
+    "url": "https://github.com/sebabar/hassio-addons_fork"
+    "maintainer": "sebabar"
   }
