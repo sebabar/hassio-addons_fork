@@ -6,6 +6,7 @@
     "arch": ["amd64","armhf","aarch64"],
     "url": "https://github.com/marthoc/hassio-addons/tree/master/dnsomatic",
     "startup": "application",
+    "init": "false",
     "boot": "auto",
     "options": {
       "hostname": null,
